@@ -1,0 +1,240 @@
+header{
+	background: url("../images/landscape.png") center center no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.banner-content{
+	padding: 200px 0px;
+}
+.navbar-brand{}
+.navbar-brand h1{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.navbar-brand h1 span{
+    display: block;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #000;
+	padding: 5px 15px;
+	font-size: 16px;
+	font-weight: 400;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  border: 1px solid #000;
+  border-radius: 30px;
+}
+
+.banner-content{
+	
+}
+.banner-content h4{
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+.banner-content h1{
+	font-size: 75px;
+	text-transform: uppercase;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.banner-content span{
+    width: 15%;
+    height: 5px;
+    background: #fb2056;
+    display: block;
+    margin: auto;
+}
+.banner-content a{
+	text-decoration: none;
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	padding: 15px 35px;
+	color: #fff;
+	border: 1px solid transparent;
+	border-radius: 30px;
+	background: #fb2056;
+}
+.banner-content a:hover,.banner-content a:focus{
+	color: #fb2056;
+	border: 1px solid #fb2056;
+	background: #fff;
+}
+
+.quote-section{
+	background: #f4f5f9;
+	padding: 50px 0px;
+}
+.quote-mark{
+
+}
+
+.quote-mark img{
+	width: 150px;
+	border-radius: 10px;
+}
+.quote-content{
+	
+}
+.quote-content h1 {
+    font-size: 37px;
+}
+.quote-content p{
+	font-size: 22px;
+}
+
+.events-section{
+	padding: 60px 0px;
+}
+.events-section .heading{
+	text-align: center;
+	margin-bottom: 60px;
+}
+.events-section .heading h1{
+	margin-bottom: 20px;
+}
+.events-section .image{
+	box-shadow: 15px 15px 0 #f4f5f9;
+	border-radius: 10px;
+	margin-bottom: 35px;
+}
+.events-section .content{
+	text-align: center;
+	padding: 20px 0px;
+}
+.events-section .content h3{
+	font-size: 25px;
+	text-transform: uppercase;
+}
+.events-section .content p{
+
+}
+.events-section span{
+    width: 15%;
+    height: 5px;
+    background: #fb2056;
+    display: block;
+    margin: auto;
+}
+.events-section .content a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #fb2056;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	border-radius: 30px;
+	transition: 1s;
+}
+.events-section .content a:hover,.events-section .content a:focus{
+	color: #fb2056;
+	border: 1px solid #fb2056;
+	background: #fff;
+}
+.events-section .content a i{
+	margin-left: 15px;
+	font-size: 15px;
+}
+
+
+.explore-section{
+	background: url("../images/hillside.png") center center no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	padding: 200px 0px;
+}
+.explore-section h1{
+	font-size: 75px;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+.explore-section p{
+	margin-bottom: 30px;
+}
+.explore-section span{
+	width: 15%;
+    height: 5px;
+    background: #fb2056;
+    display: block;
+    margin-bottom: 30px;
+}
+.explore-section a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #fb2056;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	padding: 15px 5px;
+	border: 1px solid transparent;
+	border-radius: 30px;
+	transition: 1s;
+}
+.explore-section a:hover,.explore-section a:focus{
+	color: #fb2056;
+	border: 1px solid #fb2056;
+	background: #fff;
+}
+
+
+.upcoming-section{
+	padding: 150px 0px;
+}
+.upcoming-section h1{
+	font-size: 45px;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+.upcoming-section p{
+	margin-bottom: 30px;
+}
+.upcoming-section span{
+	width: 15%;
+    height: 5px;
+    background: #fb2056;
+    display: block;
+    margin-bottom: 30px;
+}
+.upcoming-section a{
+	text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 15px 35px;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 30px;
+    background: #fb2056;
+	transition: 1s;
+}
+.upcoming-section a:hover,.upcoming-section a:focus{
+	color: #fb2056;
+	border: 1px solid #fb2056;
+	background: #fff;
+}
+.upcoming-section img{
+	padding: 10px;
+	border-radius: 15px;
+}
+.upcoming-section .h{
+	height: 500px;
+}
+
+footer{
+	background: #191919;
+	padding: 30px 0px;
+}
+
+footer p{
+	color: #fff;
+}
+footer a{
+	text-decoration: none;
+	color: #fff;
+}
